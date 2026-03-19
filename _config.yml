@@ -1,0 +1,35 @@
+# Jekyll configuration for DeepInsights
+
+# Title of the site
+title: DeepInsights
+
+# Description of the site
+description: AI and DeepTech Investment Research
+
+# Base URL
+baseurl: "/"
+
+# URL of the site
+url: "https://yourdomain.com"
+
+# Author details
+author:
+  name: Pseud0n1nja
+  email: pseud0n1nja@example.com
+
+# Build settings
+build:
+  permalink: pretty
+
+# Theme settings
+theme: minima
+
+# Plugins for Jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social media links
+social:
+  twitter: yourtwitterhandle
+  linkedin: yourlinkedinprofile
