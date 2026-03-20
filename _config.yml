@@ -1,7 +1,7 @@
 title: Gradient Alpha
-description: "A voyage through the first principle, an attempt to unveil frontier technology's boundless promise through first principle."
-baseurl: ""
-url: "https://gradientalpha.github.io/"
+# description: "A voyage through the first principle, an attempt to unveil frontier technology's boundless promise through first principle."
+# baseurl: ""
+# url: "https://gradientalpha.github.io/"
 theme: minima
 
 header_pages: []
