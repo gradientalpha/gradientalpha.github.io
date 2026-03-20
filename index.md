@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-> Hello - I’m a research/investment analyst with a passion for AI/applied mathematics, deeply curious about blockchain’s evolving landscape. These writings are my personal explorations, aiming to unpack blockchain’s promise through first-principles analysis and data driven insights.
+> Hello - I’m an investment analyst with a passion for AI/applied mathematics, deeply curious about DeepTech/AI/Blockchain’s evolving landscape. These writings are my personal explorations, aiming to unpack technology’s promise through first-principles analysis and data driven insights.
 
 
 - **Investment Research**
